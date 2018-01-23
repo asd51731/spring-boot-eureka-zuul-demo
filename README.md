@@ -14,6 +14,7 @@ mvn spring-boot:run -Dspring.application.name=foo -Dserver.port=8081
 
 访问url：http://localhost:8761/  
 如图所示：  
+https://github.com/asd51731/spring-boot-eureka-zuul-demo/blob/master/doc/server.png  
 
 ## zuul启动
 可直接执行zuul中demo.ZuulProxyApplication的main方法
